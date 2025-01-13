@@ -20,7 +20,7 @@ ReelChoice is a web-based movie recommendation system that suggests movies based
 
 ### Clone the repository
 
-    git clone https://github.com/your-username/ReelChoice.git
+    git clone https://github.com/dattu20038/ReelChoice.git
 
 ### Navigate to the project directory
 
