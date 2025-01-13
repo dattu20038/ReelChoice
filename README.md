@@ -103,5 +103,3 @@ Future Improvements
 *   **Enhanced Recommendations**: Implement collaborative filtering or deep learning models for better recommendation accuracy.
 *   **Better UI**: Add movie posters and more detailed information about the recommended movies.
 *   **Expanded Data**: Include additional features like ratings, reviews, or release year for more personalized recommendations.
-
-4o mini
